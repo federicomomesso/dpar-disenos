@@ -1,0 +1,25 @@
+# Datos de acceso: nunca se suben
+acceso-privado.txt
+.env*
+
+# Herramientas y builds
+.wrangler/
+.claude/
+.taste-skill/
+dist/
+node_modules/
+shots/
+fotos-wsp/
+
+# FM estudio es otro repo
+trono/
+
+# Biblioteca de diseño: solo se sube lo que usa la web
+assets/effects/
+assets/objects/
+assets/photos/
+assets/scenes/
+
+# Fotos originales: la web usa img/w
+img/hd/
+img/ig/
